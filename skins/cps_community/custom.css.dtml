@@ -11,6 +11,10 @@ CSS directives specific to aful.org
 </dtml-let>
 */
 
+.checklist {
+  padding-left: 1em;
+}
+
 .checklist li {
   background: transparent url(check1.png) no-repeat scroll left top;
   padding: 1px 0 5px 28px;
