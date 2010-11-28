@@ -1,0 +1,26 @@
+/*
+<dtml-comment>
+CSS directives specific to aful.org
+</dtml-comment>
+
+<dtml-let last_modified="_.DateTime() - 14" expires="_.DateTime()+1" >
+<dtml-call "REQUEST.RESPONSE.setHeader('Content-Type', 'text/css')">
+<dtml-call "REQUEST.RESPONSE.setHeader('Last-Modified', last_modified.toZone('GMT').rfc822())">
+<dtml-call "REQUEST.RESPONSE.setHeader('Cache-Control', 'max-age=36000, must-revalidate')">
+<dtml-call "REQUEST.RESPONSE.setHeader('Expires', expires.toZone('GMT').rfc822())" >
+</dtml-let>
+*/
+
+.checklist li {
+  background: transparent url(check1.png) no-repeat scroll left top;
+  padding: 1px 0 5px 28px;
+  list-style-type: none;
+}
+
+
+/*
+Local Variables:
+mode: css
+End:
+vim: set filetype=css:
+*/
