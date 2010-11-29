@@ -20,7 +20,7 @@
   <!--
   <element value="index_html:0-0:default+Front"/>
   -->
-  <element value="index_html:0-0:default+index"/>
+  <element value="index_html:0-0:cps_community+index"/>
  </property>
 
 </site>
