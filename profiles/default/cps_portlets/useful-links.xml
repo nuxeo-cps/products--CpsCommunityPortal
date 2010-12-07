@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<object name="useful-links" meta_type="CPS Portlet"
+   portal_type="Text Portlet">
+ <f id="Contributors">
+  <e v="Manager"/>
+ </f>
+ <f id="Coverage" v=""/>
+ <f id="CreationDate" v="20101129011500Z"/>
+ <f id="Creator" v="manager"/>
+ <f id="Description" v=""/>
+ <f id="EffectiveDate" v=""/>
+ <f id="ExpirationDate" v=""/>
+ <f id="Format" v="text/html"/>
+ <f id="Language" v=""/>
+ <f id="ModificationDate" v="20101204141152Z"/>
+ <f id="Relation" v=""/>
+ <f id="Rights" v=""/>
+ <f id="Source" v=""/>
+ <f id="Subject"/>
+ <f id="Title" v="Useful links"/>
+ <f id="allow_discussion" v="False"/>
+ <f id="cache_cleanup_date" v="1291471912.36"/>
+ <f id="cache_params"/>
+ <f id="cache_timeout" v="0"/>
+ <f id="disable_override" v="0"/>
+ <f id="i18n" v="0"/>
+ <f id="identifier" v="useful-links"/>
+ <f id="javascript" v=""/>
+ <f id="keywords" v=""/>
+ <f id="order" v="0"/>
+ <f id="portlet" v=""/>
+ <f id="preview"/>
+ <f id="preview_alt" v=""/>
+ <f id="preview_title" v=""/>
+ <f id="provider" v=""/>
+ <f id="slot" v="latest_news"/>
+ <f id="slot_override" v="0"/>
+ <f
+    id="text">&lt;ul class="cpsskinsMenu"&gt;
+&lt;li&gt;&lt;a href="http://download.cps-cms.org/"&gt;Download&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://flbenches.cps-cms.org/"&gt;Benchmarks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://trac.cps-cms.org/"&gt;Trac (ticket/tracking system)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hg.cps-cms.org/"&gt;Source code (via Mercurial)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sections/cps-demo"&gt;CPS demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sections/commercial-support"&gt;Commercial support&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sections/references-examples"&gt;CPS adoption and references&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</f>
+ <f id="text_format" v="normal"/>
+ <f id="text_position" v="html"/>
+ <f id="visibility_range" v="0-0"/>
+</object>

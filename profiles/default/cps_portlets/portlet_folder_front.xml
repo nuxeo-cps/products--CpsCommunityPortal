@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<object name="portlet_folder_front" meta_type="CPS Portlet"
+   portal_type="Front Document Portlet">
+ <f id="Contributors">
+  <e v="admin"/>
+ </f>
+ <f id="Coverage" v=""/>
+ <f id="CreationDate" v="20101129002801Z"/>
+ <f id="Creator" v="admin"/>
+ <f id="Description" v=""/>
+ <f id="EffectiveDate" v=""/>
+ <f id="ExpirationDate" v=""/>
+ <f id="Format" v="text/html"/>
+ <f id="Language" v=""/>
+ <f id="ModificationDate" v="20101129002801Z"/>
+ <f id="Relation" v=""/>
+ <f id="Rights" v=""/>
+ <f id="Source" v=""/>
+ <f id="Subject"/>
+ <f id="Title" v=""/>
+ <f id="allow_discussion" v="False"/>
+ <f id="cache_cleanup_date" v="0.0"/>
+ <f id="cache_params"/>
+ <f id="cache_timeout" v="0"/>
+ <f id="cluster_id" v=""/>
+ <f id="cluster_no_fallback" v="0"/>
+ <f id="context_rpath" v=""/>
+ <f id="css_class" v=""/>
+ <f id="disable_override" v="0"/>
+ <f id="excluded_layouts">
+  <e v="common"/>
+ </f>
+ <f id="identifier" v="folder_front"/>
+ <f id="javascript" v=""/>
+ <f id="keywords" v=""/>
+ <f id="order" v="15"/>
+ <f id="portlet" v=""/>
+ <f id="preview"/>
+ <f id="preview_alt" v=""/>
+ <f id="preview_title" v=""/>
+ <f id="provider" v=""/>
+ <f id="render_container" v="0"/>
+ <f id="slot" v="content_well"/>
+ <f id="slot_override" v="0"/>
+ <f id="visibility_range" v="0-0"/>
+ <guard groups="" permissions=""
+    roles="">
+   python: published == 'folder_view'
+ </guard>
+</object>

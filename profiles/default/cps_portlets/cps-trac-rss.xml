@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<object name="cps-trac-rss" meta_type="CPS Portlet" portal_type="RSS Portlet">
+ <f id="Contributors">
+  <e v="Manager"/>
+ </f>
+ <f id="Coverage" v=""/>
+ <f id="CreationDate" v="20101129005413Z"/>
+ <f id="Creator" v="manager"/>
+ <f id="Description" v=""/>
+ <f id="EffectiveDate" v=""/>
+ <f id="ExpirationDate" v=""/>
+ <f id="Format" v="text/html"/>
+ <f id="Language" v=""/>
+ <f id="ModificationDate" v="20101129020616Z"/>
+ <f id="Relation" v=""/>
+ <f id="Rights" v=""/>
+ <f id="Source" v=""/>
+ <f id="Subject"/>
+ <f id="Title" v="Tickets"/>
+ <f id="allow_discussion" v="False"/>
+ <f id="cache_cleanup_date" v="1290996376.08"/>
+ <f id="cache_params"/>
+ <f id="cache_timeout" v="3600"/>
+ <f id="channels">
+  <e v="CPS Trac"/>
+ </f>
+ <f id="disable_override" v="0"/>
+ <f id="display_description" v="False"/>
+ <f id="first_item" v="1"/>
+ <f id="identifier" v="cps-trac-rss"/>
+ <f id="javascript" v=""/>
+ <f id="keywords" v=""/>
+ <f id="link_string" v="&gt;&gt;"/>
+ <f id="max_items" v="5"/>
+ <f id="max_words" v="0"/>
+ <f id="order" v="30"/>
+ <f id="portlet" v=""/>
+ <f id="preview"/>
+ <f id="preview_alt" v=""/>
+ <f id="preview_title" v=""/>
+ <f id="provider" v=""/>
+ <f id="render_method" v=""/>
+ <f id="short_syndication_formats" v="0"/>
+ <f id="slot" v="latest_news"/>
+ <f id="slot_override" v="0"/>
+ <f id="syndication_formats"/>
+ <f id="visibility_range" v="0-0"/>
+</object>
