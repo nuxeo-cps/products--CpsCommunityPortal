@@ -17,13 +17,13 @@
  <f id="Rights" v=""/>
  <f id="Source" v=""/>
  <f id="Subject"/>
- <f id="Title" v="Useful links"/>
+ <f id="Title" v="portlet_title_useful_links"/>
  <f id="allow_discussion" v="False"/>
  <f id="cache_cleanup_date" v="1291471912.36"/>
  <f id="cache_params"/>
  <f id="cache_timeout" v="0"/>
  <f id="disable_override" v="0"/>
- <f id="i18n" v="0"/>
+ <f id="i18n" v="1"/>
  <f id="identifier" v="useful-links"/>
  <f id="javascript" v=""/>
  <f id="keywords" v=""/>
@@ -35,8 +35,7 @@
  <f id="provider" v=""/>
  <f id="slot" v="latest_news"/>
  <f id="slot_override" v="0"/>
- <f
-    id="text">&lt;ul class="cpsskinsMenu"&gt;
+ <f id="text">&lt;ul class="cpsskinsMenu"&gt;
 &lt;li&gt;&lt;a href="http://download.cps-cms.org/"&gt;Download&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://flbenches.cps-cms.org/"&gt;Benchmarks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://trac.cps-cms.org/"&gt;Trac (ticket/tracking system)&lt;/a&gt;&lt;/li&gt;

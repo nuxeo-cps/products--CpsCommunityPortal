@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<object name="mailing-lists" meta_type="CPS Portlet"
+   portal_type="Text Portlet">
+ <f id="Contributors">
+  <e v="M.-A. Darche"/>
+ </f>
+ <f id="Coverage" v=""/>
+ <f id="CreationDate" v="20110408123507Z"/>
+ <f id="Creator" v="madarche"/>
+ <f id="Description" v=""/>
+ <f id="EffectiveDate" v=""/>
+ <f id="ExpirationDate" v=""/>
+ <f id="Format" v="text/html"/>
+ <f id="Language" v=""/>
+ <f id="ModificationDate" v="20110408123802Z"/>
+ <f id="Relation" v=""/>
+ <f id="Rights" v=""/>
+ <f id="Source" v=""/>
+ <f id="Subject"/>
+ <f id="Title" v="portlet_title_mailing-lists"/>
+ <f id="allow_discussion" v="False"/>
+ <f id="cache_cleanup_date" v="1302266244.8"/>
+ <f id="cache_params"/>
+ <f id="cache_timeout" v="0"/>
+ <f id="disable_override" v="0"/>
+ <f id="i18n" v="1"/>
+ <f id="identifier" v="mailing-lists"/>
+ <f id="javascript" v=""/>
+ <f id="keywords" v=""/>
+ <f id="order" v="10"/>
+ <f id="portlet" v=""/>
+ <f id="preview"/>
+ <f id="preview_alt" v=""/>
+ <f id="preview_title" v=""/>
+ <f id="provider" v=""/>
+ <f id="slot" v="latest_news"/>
+ <f id="slot_override" v="0"/>
+ <f id="text">&lt;ul class="cpsskinsMenu"&gt;
+&lt;li&gt;&lt;a href="http://lists.nuxeo.com/mailman/listinfo/cps-users"&gt;Users&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="http://lists.nuxeo.com/mailman/listinfo/cps-users-fr"&gt;Utilisateurs (French-speaking)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lists.nuxeo.com/mailman/listinfo/cps-devel"&gt;Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lists.nuxeo.com/mailman/listinfo/cps-translators"&gt;Translators&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</f>
+ <f id="text_format" v="normal"/>
+ <f id="text_position" v="html"/>
+ <f id="visibility_range" v="0-0"/>
+</object>

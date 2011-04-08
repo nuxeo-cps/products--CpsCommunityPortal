@@ -70,4 +70,6 @@
     portal_type="Text Portlet"/>
  <object name="useful-links" meta_type="CPS Portlet"
     portal_type="Text Portlet"/>
+ <object name="mailing-lists" meta_type="CPS Portlet"
+    portal_type="Text Portlet"/>
 </object>
