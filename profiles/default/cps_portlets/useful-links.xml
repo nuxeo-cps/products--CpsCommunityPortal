@@ -36,7 +36,7 @@
  <f id="slot" v="latest_news"/>
  <f id="slot_override" v="0"/>
  <f id="text">&lt;ul class="cpsskinsMenu"&gt;
-&lt;li&gt;&lt;a href="http://download.cps-cms.org/"&gt;Download&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/sections/download"&gt;Download / Install&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://flbenches.cps-cms.org/"&gt;Benchmarks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://trac.cps-cms.org/"&gt;Trac (ticket/tracking system)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://hg.cps-cms.org/"&gt;Source code (via Mercurial)&lt;/a&gt;&lt;/li&gt;
